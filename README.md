@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/chandra-bhushan-pandey-1160553ab">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://nextegncoderhub.in">
+  <a href="https://nextgencoderhub.in">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel">
   </a>
 </p>
