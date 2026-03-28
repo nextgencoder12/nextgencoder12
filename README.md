@@ -24,7 +24,7 @@
 - 💡 Building **AI-powered platforms & real-world solutions**
 - 🏫 Specialized in **🚀 Full Stack Web Developer | Building Digital Solutions for Schools, Businesses & Startups**
 - 🌱 Currently learning **Advanced Django & AI Integration**
-- 📫 Reach me: **your@email.com**
+- 📫 Reach me: **nextgencoder12@gmail.com**
 
 ---
 
