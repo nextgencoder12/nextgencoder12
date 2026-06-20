@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandrabhushan Pandey</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Django+Developer;🤖+AI+Builder;💼+Founder+of+NextGenCoderHub;🌐+Building+Real+World+Projects&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Django+Developer;🤖+AI+Builder;💼+Co-Founder+of+KlyroAi;🌐+Building+Real+World+Projects&center=true&width=600&height=50">
 </p>
 
 ---
