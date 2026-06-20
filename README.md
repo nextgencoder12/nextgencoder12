@@ -9,7 +9,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chandra-bhushan-pandey-1160553ab">
+  <a href="www.linkedin.com/in/chandra-bhushan-pandey-280651348b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://nextgencoderhub.in">
@@ -20,43 +20,76 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Founder of **NextGenCoderHub**
-- 💡 Building **AI-powered platforms & real-world solutions**
-- 🏫 Specialized in **🚀 Full Stack Web Developer | Building Digital Solutions for Schools, Businesses & Startups**
-- 🌱 Currently learning **Advanced Django & AI Integration**
-- 📫 Reach me: **nextgencoder12@gmail.com**
+- 🔭 Co-Founder of **KlyroAI**
+- 💡 Building **AI-powered platforms & real-world solutions **
+- 🏫 Specialized in **🚀 Full Stack Web Developer | AI Automation Engineer 🚀| Building Scalable AI Pipelines & Workflow Automation | Web Systems**
+- 🌱 Currently learning **- Advanced AI Automation & Agent Development
+- Multi-Agent Systems with n8n & LangGraph
+- RAG (Retrieval Augmented Generation)
+- FastAPI, Docker & Cloud Deployment
+- Advanced Django & Scalable Backend Architecture **
+- 📫 Reach me: **chandrabhushan.pandey9129@gmail.com**
 
 ---
 
-## 🧠 What I Build
-🏫 School & College Management Systems  
-🍽️ Restaurant Websites & Ordering Systems  
-🏥 Hospital & Clinic Management Systems  
-🌐 Business Websites  
-📊 Admin Dashboards  
-🤖 AI-Based Platforms    
+## 🚀 What I Build
+
+• AI Chatbots & Voice Agents
+
+• Workflow Automation Solutions
+
+• Full Stack Web Applications
+
+• Custom CRM & ERP Systems
+
+• School & Institute Management Platforms
+
+• Business Websites & Landing Pages
+
+• AI-Powered SaaS Products
+
+• Admin Dashboards & Analytics Systems  
 
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,nodejs,html,css,tailwind,mongodb,mysql,docker,git,github,vscode" />
 </p>
 
 ---
 
-## 💼 Featured Projects
+## 📦 Featured Projects
+
+### 🤖 AI Chatbot SaaS Platform
+- Multi-Tenant AI Chatbot System
+- Custom Client Configuration
+- Lead Collection & CRM Integration
+- Voice & Chat Support
+
+### 🎙️ AI Voice Assistant
+- Real-Time Voice Conversations
+- ElevenLabs Integration
+- Workflow Automation
+- AI-Powered Customer Support
 
 ### 🏫 School Management System
-- Student Dashboard  
-- Admin Panel  
-- Online Admission  
+- Student Dashboard
+- Admin Panel
+- Online Admission System
+- Attendance & Fee Management
 
-### 🤖 AI Interview Platform *(Coming Soon)*
-- AI Questions  
-- Smart Evaluation  
-- Real-time Feedback  
+### 📊 Student Result Management System
+- Result Generation & Management
+- PDF Marksheet Download
+- QR Code Verification
+- Admin Control Panel
+
+### ⚡ Business Automation Platform
+- n8n Workflow Automation
+- Lead Generation System
+- Email & WhatsApp Automation
+- CRM Integration 
 
 ---
 
@@ -76,7 +109,16 @@
 ---
 ## 💼 Work With Me
 
-💡 I help schools, businesses, restaurants, and startups build modern websites and digital systems.
+## 💼 Available For
 
-🚀 Need a website or management system?
-👉 Let’s connect and grow your business digitally!
+✅ AI Chatbots & Voice Agents
+
+✅ Business Automation Solutions
+
+✅ School & College Management Systems
+
+✅ Custom Websites & Dashboards
+
+✅ SaaS Product Development
+
+📩 Let's build something amazing together!
